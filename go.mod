@@ -1,4 +1,4 @@
-module homeweork-1
+module homework-1
 
 go 1.16
 
